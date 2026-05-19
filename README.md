@@ -7,7 +7,7 @@ Turn long PDFs, meeting notes, or technical specs into polished presentation dec
 ## Features
 
 - Multi-format input: PDF, DOCX, Markdown, raw text
-- LLM-driven outline & key-point extraction
+- LLM-driven outline & key-point extraction 
 - Structured slide generation (PPTX / Google Slides / Reveal.js)
 - Custom templates and branding
 - CLI + FastAPI service modes
